@@ -6,7 +6,7 @@ plugins {
 
 android {
     namespace = "com.jing91.jmporjectapp"
-    compileSdk = 34
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "com.jing91.jmporjectapp"
